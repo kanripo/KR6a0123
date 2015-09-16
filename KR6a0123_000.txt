@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說放牛經
+#+DATE: 2015-08-30 19:32:02.679929
+#+PROPERTY: JUAN 0
